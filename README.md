@@ -1,6 +1,11 @@
 Gephart Generator Edition
 ===
 
+DEPRECATED!
+---
+
+Packege was move to main repository: https://github.com/gephart/gephart
+
 Dependencies
 ---
  - PHP >= 7.1
